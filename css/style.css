@@ -1,0 +1,16 @@
+:root{
+    --cor-cinza: #F4F5F9;
+}
+
+body{
+    font-family: "Heebo", sans-serif;
+    font-weight: 500;
+}
+
+.lista{
+    list-style: none !important;
+}
+
+.cor-fundo{
+    background-color: var(--cor-cinza);
+}
